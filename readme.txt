@@ -1,4 +1,4 @@
 git is a distrabution i love you 
 Version control system
 
-git is a free software
+git is a free software under the GPL
